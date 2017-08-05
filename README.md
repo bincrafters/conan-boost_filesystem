@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Filesystem](https://github.com/Boostorg/Filesystem) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Filesystem%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Filesystem%3Abincrafters).
 
 ## For Users: Use this package
 
