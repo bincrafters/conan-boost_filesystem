@@ -13,19 +13,19 @@ class BoostFilesystemConan(ConanFile):
     lib_short_names = ["filesystem"]
     options = {"shared": [True, False]}
     default_options = "shared=False"
-    build_requires = "Boost.Generator/1.64.0@bincrafters/testing"
-    requires =  "Boost.Assert/1.64.0@bincrafters/testing", \
-                      "Boost.Config/1.64.0@bincrafters/testing", \
-                      "Boost.Core/1.64.0@bincrafters/testing", \
-                      "Boost.Detail/1.64.0@bincrafters/testing", \
-                      "Boost.Functional/1.64.0@bincrafters/testing", \
-                      "Boost.Io/1.64.0@bincrafters/testing", \
-                      "Boost.Iterator/1.64.0@bincrafters/testing", \
-                      "Boost.Range/1.64.0@bincrafters/testing", \
-                      "Boost.Smart_Ptr/1.64.0@bincrafters/testing", \
-                      "Boost.Static_Assert/1.64.0@bincrafters/testing", \
-                      "Boost.System/1.64.0@bincrafters/testing", \
-                      "Boost.Type_Traits/1.64.0@bincrafters/testing"
+    build_requires = "Boost.Generator/1.65.1@bincrafters/testing"
+    requires =  "Boost.Assert/1.65.1@bincrafters/testing", \
+                      "Boost.Config/1.65.1@bincrafters/testing", \
+                      "Boost.Core/1.65.1@bincrafters/testing", \
+                      "Boost.Detail/1.65.1@bincrafters/testing", \
+                      "Boost.Functional/1.65.1@bincrafters/testing", \
+                      "Boost.Io/1.65.1@bincrafters/testing", \
+                      "Boost.Iterator/1.65.1@bincrafters/testing", \
+                      "Boost.Range/1.65.1@bincrafters/testing", \
+                      "Boost.Smart_Ptr/1.65.1@bincrafters/testing", \
+                      "Boost.Static_Assert/1.65.1@bincrafters/testing", \
+                      "Boost.System/1.65.1@bincrafters/testing", \
+                      "Boost.Type_Traits/1.65.1@bincrafters/testing"
 
                       #assert1 config0 core2 detail5 functional5 io1 iterator5 range7 smart_ptr4 static_assert1 system3 type_traits3
 
