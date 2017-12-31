@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostFilesystemConan(ConanFile):
     name = "boost_filesystem"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-filesystem"
+    url = "https://github.com/bincrafters/conan-boost_filesystem"
     
     lib_short_names = ["filesystem"]
     is_header_only = False
