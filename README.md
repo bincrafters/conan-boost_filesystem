@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux | OSX |
 |---------|------------|--------|------|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/conan-boost_filesystem%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/conan-boost_filesystem%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_filesystem?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-filesystem)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_filesystem.svg)](https://travis-ci.org/bincrafters/conan-boost_filesystem)|[![CircleCI](https://circleci.com/gh/bincrafters/conan-boost_filesystem.svg?style=svg)](https://circleci.com/gh/bincrafters/conan-boost_filesystem)|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_filesystem%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_filesystem%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_filesystem?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-filesystem)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_filesystem.svg)](https://travis-ci.org/bincrafters/conan-boost_filesystem)|[![CircleCI](https://circleci.com/gh/bincrafters/conan-boost_filesystem.svg?style=svg)](https://circleci.com/gh/bincrafters/conan-boost_filesystem)|
 
 ## Conan.io Information
 
