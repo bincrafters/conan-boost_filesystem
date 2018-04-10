@@ -15,7 +15,6 @@ class BoostFilesystemConan(ConanFile):
     options = {"shared": [True, False]}
     default_options = "shared=False"
 
-    # TODO: functional
     requires = (
         "boost_assert/1.67.0@bincrafters/testing",
         "boost_config/1.67.0@bincrafters/testing",
