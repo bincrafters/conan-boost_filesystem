@@ -4,7 +4,7 @@
 from conans import python_requires
 
 
-base = python_requires("boost_base/1.67.0@bincrafters/testing")
+base = python_requires("boost_base/1.68.0@bincrafters/testing")
 
 class BoostFilesystemConan(base.BoostBaseConan):
     name = "boost_filesystem"
@@ -26,5 +26,3 @@ class BoostFilesystemConan(base.BoostBaseConan):
         "boost_system",
         "boost_type_traits"
     ]
-
-
