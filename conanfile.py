@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.68.0@bincrafters/stable")
 
 class BoostFilesystemConan(base.BoostBaseConan):
     name = "boost_filesystem"
+    version = "1.68.0"
     url = "https://github.com/bincrafters/conan-boost_filesystem"
     lib_short_names = ["filesystem"]
     options = {"shared": [True, False]}
